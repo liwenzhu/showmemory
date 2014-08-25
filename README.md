@@ -5,6 +5,13 @@ Show memory usage in current process.
 
 [![NPM](https://nodei.co/npm/showmemory.png?stars&downloads)](https://nodei.co/npm/showmemory/) [![NPM](https://nodei.co/npm-dl/showmemory.png)](https://nodei.co/npm/showmemory/)
 
+Installation
+============
+
+```bash
+$ npm install showmemory
+```
+
 Usage
 =====
 
