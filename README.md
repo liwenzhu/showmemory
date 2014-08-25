@@ -15,9 +15,11 @@ $ npm install showmemory
 Usage
 =====
 
+You can pass an interval time to showmemory, default is 1000;
+
 ```javascript
 var showMemory = require('showmemory');
-showMemory();
+showMemory(5000); // show memory every 5 second
 ```
 
 output:
