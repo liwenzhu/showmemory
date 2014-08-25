@@ -1,0 +1,23 @@
+{
+  "name": "showmemory",
+  "version": "0.0.1",
+  "description": "Show memory usage in current process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liwenzhu/showmemory.git"
+  },
+  "keywords": [
+    "show",
+    "memory"
+  ],
+  "author": "Vince <lee.wenzhu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liwenzhu/showmemory/issues"
+  },
+  "homepage": "https://github.com/liwenzhu/showmemory"
+}
