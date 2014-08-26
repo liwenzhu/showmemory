@@ -1,6 +1,6 @@
 {
   "name": "showmemory",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Show memory usage in current process.",
   "main": "index.js",
   "scripts": {
